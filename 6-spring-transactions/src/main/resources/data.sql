@@ -1,0 +1,1 @@
+insert into author (id, name,twitter )values(1, 'Alex agapo', '@raidentrance');
